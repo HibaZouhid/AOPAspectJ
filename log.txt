@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-05T13:24:37.388027600Z</date>
+  <millis>1609853077388</millis>
+  <nanos>27600</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>BEFORE DEBIT -------------------------------------------</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.423108400Z</date>
+  <millis>1609853077423</millis>
+  <nanos>108400</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>TEMPS EXECUTION : 0</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.423673400Z</date>
+  <millis>1609853077423</millis>
+  <nanos>673400</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>CLIENT NAME : h</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.425672900Z</date>
+  <millis>1609853077425</millis>
+  <nanos>672900</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>SOLDE DU COMPTE AVANT DEBIT : 33.0</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.427328300Z</date>
+  <millis>1609853077427</millis>
+  <nanos>328300</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>AFTER------------------------------------------------- </message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.428701300Z</date>
+  <millis>1609853077428</millis>
+  <nanos>701300</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>TEMPS EXECUTIONNNN 39</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.431091200Z</date>
+  <millis>1609853077431</millis>
+  <nanos>91200</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>CLIENT NAME : h</message>
+</record>
+<record>
+  <date>2021-01-05T13:24:37.431091200Z</date>
+  <millis>1609853077431</millis>
+  <nanos>91200</nanos>
+  <sequence>7</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>beans.Client</class>
+  <method>retirer_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>SOLDE DU COMPTE APRES DEBIT :30.0</message>
+</record>

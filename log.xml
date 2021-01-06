@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-05T13:26:06.711703100Z</date>
+  <millis>1609853166711</millis>
+  <nanos>703100</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>beforeVerser</method>
+  <thread>1</thread>
+  <message>---------------------</message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.720076600Z</date>
+  <millis>1609853166720</millis>
+  <nanos>76600</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>beforeVerser</method>
+  <thread>1</thread>
+  <message>CLIENT NAME : h</message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.722642800Z</date>
+  <millis>1609853166722</millis>
+  <nanos>642800</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>beforeVerser</method>
+  <thread>1</thread>
+  <message>SOLDE DU COMPTE AVANT VERSEMENET : 22.0</message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.723741500Z</date>
+  <millis>1609853166723</millis>
+  <nanos>741500</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>afterVerser</method>
+  <thread>1</thread>
+  <message>------------------- </message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.723741500Z</date>
+  <millis>1609853166723</millis>
+  <nanos>741500</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>afterVerser</method>
+  <thread>1</thread>
+  <message>TEMPS EXECUTION 12</message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.724757700Z</date>
+  <millis>1609853166724</millis>
+  <nanos>757700</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>afterVerser</method>
+  <thread>1</thread>
+  <message>CLIENT NAME : h</message>
+</record>
+<record>
+  <date>2021-01-05T13:26:06.724757700Z</date>
+  <millis>1609853166724</millis>
+  <nanos>757700</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LogAspect</class>
+  <method>afterVerser</method>
+  <thread>1</thread>
+  <message>SOLDE DU COMPTE APRES VERSEMENT :25.0</message>
+</record>
